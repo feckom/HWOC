@@ -1,7 +1,5 @@
 # HWOC — Hardware Online Check (Optimized)
 
-![HWOC Logo](https://via.placeholder.com/150x50?text=HWOC) *(Placeholder: Add logo if available)*
-
 **A powerful, offline-capable CLI system information tool with intelligent online enrichment for Windows.**
 
 ---
